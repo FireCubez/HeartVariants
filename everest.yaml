@@ -1,0 +1,6 @@
+- Name: HeartVariants
+  Version: 1.0.0
+  DLL: HeartVariants/bin/Debug/HeartVariants.dll
+  Dependencies:
+  - Name: Everest
+    Version: 1.0.0
